@@ -366,6 +366,7 @@ Software engineers can adhere to ethical standards in their work by;
 7.Speaking up if they witness unethical behaviors or practices within their organization.
 
 8.Engaging in self-reflection to continuously evaluate their decisions and behaviors in relation to ethical standards.
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
